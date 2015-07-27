@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/9fevrier/displaytag.svg?branch=master)](https://travis-ci.org/9fevrier/displaytag)
+
 # displaytag
 
 This project is a fork of the [display tag library](http://www.displaytag.org/10/tlds.html). This fork is upgrading any dependencies as iText and Apache POI.
