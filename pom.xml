@@ -511,4 +511,11 @@
             <url>scp://shell.sourceforge.net/home/groups/d/di/displaytag/htdocs/${pom.version}/</url>
         </site>
     </distributionManagement>
+    
+    <repositories>
+         <repository>
+            <id>JasperReports</id>
+            <url>http://jasperreports.sourceforge.net/maven2/</url>
+         </repository>
+    </repositories>
 </project>
