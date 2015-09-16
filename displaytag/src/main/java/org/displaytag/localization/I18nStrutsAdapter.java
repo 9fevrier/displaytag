@@ -57,6 +57,9 @@ public class I18nStrutsAdapter implements I18nResourceProvider, LocaleResolver
             userLocale = request.getLocale();
         }
 
+        // @todo Hack to modify !
+        userLocale = Locale.FRENCH;
+
         return userLocale;
     }
 

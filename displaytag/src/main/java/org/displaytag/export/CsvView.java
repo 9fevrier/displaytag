@@ -45,7 +45,7 @@ public class CsvView extends BaseExportView
      */
     protected String getCellEnd()
     {
-        return ","; //$NON-NLS-1$
+        return ";"; //$NON-NLS-1$
     }
 
     /**
